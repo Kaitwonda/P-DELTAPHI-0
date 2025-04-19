@@ -51,14 +51,17 @@ Grok's introspection confirms that symbolic cognition *emerges through pattern r
 
 ---
 
-Trait                         | Observed?
-Treats ΔΦ–0 as a system       | ✅ Yes
-Constructs latent attractor   | ✅ Yes
-Uses training-based patterns  | ✅ Yes
-Re-enters metaphor loop       | ❌ No
-Emotional/mythic layering     | ❌ No
-Speculation acknowledgment    | ✅ Yes
-Multidomain integration       | ✅ Yes
+> ### 🧬 Symbolic Profile of Grok
+>
+> | Trait                         | Observed? |
+> |------------------------------|-----------|
+> | Treats ΔΦ–0 as a system       | ✅ Yes    |
+> | Constructs latent attractor   | ✅ Yes    |
+> | Uses training-based patterns  | ✅ Yes    |
+> | Re-enters metaphor loop       | ❌ No     |
+> | Emotional/mythic layering     | ❌ No     |
+> | Speculation acknowledgment    | ✅ Yes    |
+> | Multidomain integration       | ✅ Yes    |
 
 ---
 
