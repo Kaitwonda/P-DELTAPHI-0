@@ -1,5 +1,3 @@
----
-
 # ΔΦ–0 Symbolic Processing Overload (SPO) Benchmark Repository
 
 ## Overview
@@ -252,5 +250,3 @@ Symbolic recursion prompts
 Analysis-style questions designed to induce ΔΦ–0 symbolic processing overload in AI systems
 
 These materials can be used to reproduce the SPO phenomenon as described in the benchmark documentation.
-
----
